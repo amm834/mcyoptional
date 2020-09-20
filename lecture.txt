@@ -1,0 +1,108 @@
+Lecture-001
+
+Introduction
+HTML5 Structure Explanation
+
+Heading tags
+H1 To H6
+
+Paragraph Tag
+line braek
+horizontal line break
+
+------------------------------
+
+Lecture-002
+Style Attritube
+style=""
+bgcolor=""
+
+Formatting tags
+bold
+italic
+strong
+emphasized
+small
+delete
+underline
+subscript
+supsript
+mark
+ins erted
+
+Quotation
+q
+blockquote
+abbr
+address
+
+------------------------------
+
+Lecture-003
+
+Computer Code
+Color (Explanation)
+Hyper Link
+Anchor Link
+List
+order List
+a ,  A
+1 Default
+i , I
+
+------------------------------
+
+Lecture-004
+
+Table
+Block Element
+Span Elements
+iFrame
+img
+
+------------------------------
+
+Lecture-005
+
+Grouping Elements
+Classes
+Javascript Tag
+HTML Simple Form Form
+
+------------------------------
+Lecture-006
+
+Input Types
+-text
+-password
+-submit
+-email
+-radio
+-checkbox
+-button
+-color
+-date
+-datetime
+-datetime-local
+-week
+-tel
+-url
+
+Min - Max - Value -Size
+
+Attritube Of Input
+-autocomplete 01
+-autofocus
+-required
+
+Attritube Of Form
+-enctype
+
+-----------------------------
+
+Lecture-007
+
+HTML Entities
+Media Controls
+Audio
+Video -> autoplay
