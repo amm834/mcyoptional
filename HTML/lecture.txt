@@ -110,3 +110,25 @@ Video -> autoplay
 -----------------------------
 
 Start Project
+
+-----------------------------
+
+HTML5
+Why we use !DOCTYPE HTML ?
+About Usable meta tags
+
+header,
+section,
+footer,
+aside, 
+nav, 
+main,
+article,
+figure -> figure caption 
+
+HTML5 Skeleton
+header -> h1 ->6
+section -> p , article ,aside ,figure
+footer ->p ,h1->6
+no more than long Character  80 
+do not use unnesssary space and  blanck also tab
